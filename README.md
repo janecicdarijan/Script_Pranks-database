@@ -26,11 +26,8 @@ This repository contains a collection of educational and entertaining scripts de
 ## 🚀 How to Use
 All scripts are available in raw format or as part of a **.zip** package in the [Releases] section.
 
-1.  **Clone the repository:** ```bash
-    git clone [https://github.com/YOUR-USERNAME/legacy-script-pranks.git](https://github.com/YOUR-USERNAME/legacy-script-pranks.git)
-    ```
-2.  **Explore the directories:** Browse folders categorized by script type.
-3.  **Inspect before running:** Right-click any file and select "Edit" to inspect the source code.
+1.  **Explore the directories:** Browse folders categorized by script type.
+2.  **Inspect before running:** Right-click any file and select "Edit" to inspect the source code.
 
 ---
 
