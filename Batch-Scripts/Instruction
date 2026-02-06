@@ -9,7 +9,6 @@ This directory contains scripts that run in the Windows Command Prompt (CMD). Mo
 5. Enjoy!
 
 | File Name | Description | Risk Level |
-| :--- | :--- | :--- |
 | `Loop_virus.bat` | Clone it self until it fill RAM memory. | 🟢 Low |
 | `md_virus.bat` | Randomly open it self in seconds until i fil RAM memory. | 🟢 Low |
 | `shutdown.bat` | Triggers a timed system shutdown with a custom message. | 🟡 Medium |
