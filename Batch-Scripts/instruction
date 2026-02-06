@@ -13,7 +13,7 @@ This directory contains scripts that run in the Windows Command Prompt (CMD). Mo
 | `Loop_virus.bat` | Clone it self until it fill RAM memory. | 🟢 Low |
 | `md_virus.bat` | Randomly open it self in seconds until i fil RAM memory. | 🟢 Low |
 | `shutdown.bat` | Triggers a timed system shutdown with a custom message. | 🟡 Medium |
-| `start_virus.bat` | In just seconds it opens a bunch of windows and fill RAM memory. | 🟢🔴 Low |
+| `start_virus.bat` | In just seconds it opens a bunch of windows and fill RAM memory. | 🟢 Low |
 | `web_virus.bat` | It opens the link to web site lightning fast till it fill RAM memory. | 🟢 Low |
 
 ---
