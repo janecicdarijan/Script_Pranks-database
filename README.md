@@ -40,4 +40,4 @@ Do you have an old script that is missing from our database? Contributions are w
 ---
 
 ## 📄 License
-This project is open-source. Please check the [LICENSE](LICENSE) file for more details (Recommended: MIT License).
+This project is open-source. Please check the [LICENSE](LICENSE) file.
