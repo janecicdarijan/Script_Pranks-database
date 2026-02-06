@@ -5,13 +5,16 @@ This directory contains scripts that run in the Windows Command Prompt (CMD). Mo
 1. Open Notebook on computer
 2. Pasete or write the code
 3. Save it as .bat file
+4. Make a Shrotcut on Desktop and change icon and name to Chrome or something else.
+5. Enjoy!
 
 | File Name | Description | Risk Level |
 | :--- | :--- | :--- |
-| `matrix.bat` | Creates the classic green "Matrix" falling code effect. | 🟢 Low (Visual) |
-| `fake_scanner.bat` | Simulates a terminal window "scanning" for viruses. | 🟢 Low (Visual) |
-| `shutdown_prank.bat` | Triggers a timed system shutdown with a custom message. | 🟡 Medium (Action) |
-| `infinite_folders.bat` | Rapidly creates empty folders on the desktop. | 🔴 High (Cleanup required) |
+| `Loop_virus.bat` | Clone it self until it fill RAM memory. | 🟢 Low |
+| `md_virus.bat` | Randomly open it self in seconds until i fil RAM memory. | 🟢 Low |
+| `shutdown.bat` | Triggers a timed system shutdown with a custom message. | 🟡 Medium |
+| `start_virus.bat` | In just seconds it opens a bunch of windows and fill RAM memory. | 🟢🔴 Low |
+| `web_virus.bat` | It opens the link to web site lightning fast till it fill RAM memory. | 🟢 Low |
 
 ---
-**Note:** To view the source code, right-click the file and select **Edit**. Never run a script unless you understand what it does.
+**Note:** To view the source code, right-click the file and select **Edit**. Never run a script unless you understand what it does!
