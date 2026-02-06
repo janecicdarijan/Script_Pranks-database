@@ -1,5 +1,6 @@
 Dim var
 Do until var=6
-var=msgbox("Are you an idiot?",4+16,"PC Hacked")
+var=msgbox("Delete System 32?",4+16,"Error: 404")
 Loop
-a=msgbox("Hahah, I knew It!",0+64,"PC Hacked")
+
+a=msgbox("Done!",0+64,"All good")
