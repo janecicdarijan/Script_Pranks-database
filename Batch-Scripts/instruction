@@ -1,0 +1,17 @@
+# 📂 Batch Script Collection
+
+This directory contains scripts that run in the Windows Command Prompt (CMD). Most of these use basic system commands to create visual effects or simulate system actions.
+
+1. Open Notebook on computer
+2. Pasete or write the code
+3. Save it as .bat file
+
+| File Name | Description | Risk Level |
+| :--- | :--- | :--- |
+| `matrix.bat` | Creates the classic green "Matrix" falling code effect. | 🟢 Low (Visual) |
+| `fake_scanner.bat` | Simulates a terminal window "scanning" for viruses. | 🟢 Low (Visual) |
+| `shutdown_prank.bat` | Triggers a timed system shutdown with a custom message. | 🟡 Medium (Action) |
+| `infinite_folders.bat` | Rapidly creates empty folders on the desktop. | 🔴 High (Cleanup required) |
+
+---
+**Note:** To view the source code, right-click the file and select **Edit**. Never run a script unless you understand what it does.
