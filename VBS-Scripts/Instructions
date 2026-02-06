@@ -1,0 +1,19 @@
+# 📂 VBS Script Collection
+
+This directory contains VBScripts (.vbs) that interact with the Windows GUI, creating pop-up boxes, simulated typing, or voice alerts.
+
+1. Open Notebook on computer
+2. Pasete or write the code
+3. Save it as .bat file
+4. Make a Shrotcut on Desktop and change icon and name to Chrome or something else.
+5. Enjoy!
+
+| File Name | Description | Risk Level |
+| :--- | :--- | :--- |
+| `cant_write.vbs` | It automaticly deletes everything you write anywhere. | 🟡 Medium |
+| `Idiot_virus.vbs` | It spam a Error Message whit text and yes/no buttons, it disapear if you click yes. | 🟢 Low |
+| `infinite_typing_virus.vbs` | These paste words os sentences in seconds. You cant use computer or keyboard. | 🟡 Medium |
+| `msgbox.vbs` | Simular to infinite virus, but it only spam one window, and it can not end without Task Menager. | 🟢 Low |
+
+---
+**Note:** These scripts can usually be stopped by ending the `wscript.exe` task in the Task Manager.
