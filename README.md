@@ -35,6 +35,24 @@ All scripts are available in raw format or as part of a **.zip** package in the 
 
 ---
 
+## 🛡️ Safe Testing Environment
+
+To ensure a safe experience while exploring these scripts, we recommend using one of the following methods:
+
+### 1. Windows Sandbox (Recommended)
+If you are on Windows 10/11 Pro or Enterprise:
+* Enable **Windows Sandbox** in "Turn Windows features on or off".
+* Run the sandbox, copy the code into a Notepad file, and save it as `.bat` or `.vbs`.
+* Everything you do inside the Sandbox is deleted once you close it.
+
+### 2. Virtual Machines (VM)
+Use software like **VirtualBox** or **VMware** to create an isolated Windows environment. This is the gold standard for testing scripts without any risk to your host operating system.
+
+### 3. Review the Code
+Always right-click a script and select **Edit** to view the source code. Our scripts are transparent and commented so you can learn exactly how they work before execution.
+
+---
+
 ## 🤝 Contributing
 Do you have an old script that is missing from our database? Contributions are welcome!
 * **Fork** the repository.
