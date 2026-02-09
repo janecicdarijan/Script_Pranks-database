@@ -14,14 +14,16 @@ This repository contains a collection of educational and entertaining scripts de
 
 ---
 
-## ⚠️ Disclaimer
-**Important:** The content of this repository is intended strictly for **educational and entertainment purposes**.
+## ⚠️ Disclaimer & Usage Guidelines
 
-1.  **Ethics:** Use these scripts only with the prior consent of the person you are pranking.
-2.  **Responsibility:** The author of this project assumes no responsibility for any misuse, data loss, or misunderstandings caused by the execution of these files. **You use these files at your own risk.**
-3.  **Safety:** While these scripts are "harmless" (they do not cause permanent damage to hardware or system files), it is highly recommended to run them within a **Virtual Machine (VM)** or a sandbox environment to understand their
-4.  **Education:** 
-behavior before sharing.
+> **Important:** The content of this repository is intended strictly for **educational and entertainment purposes**.
+
+By using the scripts provided in this repository, you agree to the following:
+
+* **Ethics & Consent:** Use these scripts **only** with the prior, explicit consent of the person you are pranking. Unauthorized use on systems you do not own or have permission to use is strictly discouraged.
+* **Responsibility:** The author of this project assumes **no responsibility** for any misuse, unintended data loss, or misunderstandings caused by the execution of these files. You use these files at your own risk.
+* **Safety First:** While these scripts are designed to be "harmless" (meaning they do not cause permanent damage to hardware or core system files), it is highly recommended to run them within a **Virtual Machine (VM)** or a sandbox environment to understand their behavior before sharing.
+* **Legal Compliance:** Ensure that your use of these scripts complies with your local laws and the platform's Terms of Service.
 
 ---
 
