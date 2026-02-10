@@ -1,1 +1,15 @@
+# 📂 Python Script Collection
 
+These are Python scripts and applications that are used to automate and make tasks easier. You can use some of the scripts for fun, but also for education on how to automate some commands using Python.
+
+1. Download file
+2. Modify code, and put info
+3. Save it or make .exe file
+4. Run the .exe file or code
+5. Enjoy!
+
+| File Name | Description | Risk Level |
+| `ipsent_GitHub.py` | When activated, it automatically creates a file with all IP address data, system information, and user information. The file that is created is automatically sent to an email and is saved and used by that person. | 🔴 Heigh (Only for education) |
+
+---
+**Note:** These codes are for educational purposes and are not entirely harmless if not used properly. To stay safe, please use them only with your friends and with their prior permission.
