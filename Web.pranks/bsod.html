@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>:(</title>
+<style>
+body {
+    margin: 0;
+    background: #0078D7;
+    color: white;
+    font-family: "Segoe UI", sans-serif;
+    overflow: hidden;
+    cursor: none; /* hides cursor */
+}
+.container {
+    padding: 100px;
+}
+.sad {
+    font-size: 120px;
+}
+.text {
+    font-size: 28px;
+    max-width: 900px;
+}
+.small {
+    margin-top: 40px;
+    font-size: 18px;
+}
+</style>
+</head>
+
+<body onload="goFull()">
+
+<div class="container">
+<div class="sad">:(</div>
+
+<div class="text">
+Your PC ran into a problem and needs to restart.
+We're just collecting some error info, and then we'll restart for you.
+</div>
+
+<div class="small">
+<span id="percent">0</span>% complete<br><br>
+DPC_WATCHDOG_VIOLATION
+</div>
+</div>
+
+<script>
+function goFull() {
+    document.documentElement.requestFullscreen().catch(()=>{});
+}
+
+document.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") {
+        e.preventDefault(); // try block ESC
+    }
+});
+
+document.addEventListener("contextmenu", e => e.preventDefault());
+
+let p = 0;
+let interval = setInterval(function() {
+    if (p < 100) {
+        p++;
+        document.getElementById("percent").innerText = p;
+    }
+}, 800);
+</script>
+
+</body>
+</html>
